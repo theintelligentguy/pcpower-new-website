@@ -1,1 +1,1 @@
-website for replacement of powerpc.me
+Website replacement for pcpower using ReactJS
